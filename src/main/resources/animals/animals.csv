@@ -1,0 +1,12 @@
+NAME,TYPE,CODE
+Perro,Mamífero,a001
+Gato,Mamífero,a002
+Pingüino,Ave,a003
+Búho,Ave,a004
+Iguana,Reptil,a005
+Tortuga,Reptil,a006
+Rana,Anfibio,a007
+Salmón,Pez,a008
+Tiburón,Pez,a009
+Mariposa,Insecto,a010
+Grillo,Insecto,a011
